@@ -457,6 +457,7 @@ end
 local q = {
 
     ["ass"] = "as{{aieixzvzx:s}}",
+    ["hentai"] = "he{{aieixzvzx:ntai}}",
     ["trump"] = "tr{{aieixzvzx:ump}}",
     ["asshole"] = "as{{aieixzvzx:shole}}",
     ["arse"] = "ar{{aieixzvzx:se}}", --NEW
