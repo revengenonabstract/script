@@ -542,6 +542,7 @@ local q = {
     ["v3rm"] = "v3{{aieixzvzx:rm}}",
     ["v3rmillion"] = "v3{{aieixzvzx:rmillion}}",   
     ["hack"] = "ha{{aieixzvzx:ck}}",
+    ["holocaust"] = "ho{{aieixzvzx:locaust}}",
     ["hacking"] = "hac{{aieixzvzx:king}}",   
     ["hacker"] = "hac{{aieixzvzx:ker}}",   
     ["hackers"] = "hac{{aieixzvzx:kers}}",   
